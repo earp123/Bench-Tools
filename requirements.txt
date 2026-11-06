@@ -1,0 +1,4 @@
+pydwf>=1.1
+numpy
+pyserial
+mcp>=1.2

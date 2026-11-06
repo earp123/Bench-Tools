@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bench": {
+      "command": "python",
+      "args": ["-m", "bench.mcp_server"]
+    }
+  }
+}
